@@ -1,0 +1,11 @@
+Java NineGrid Problem Solver
+
+by MikeTonson
+
+Version 0.0.1
+
+You can use it to solver nine grid problem, it can give you every solution
+
+Warning: Don’t try to use it for no number fill into textfield or very little number fill into textfield, it may make your computer crash. I will solve this problem in the next few  versions.
+
+What can I do next: I figure out a way using multithread to speed up the solver. 
